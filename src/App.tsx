@@ -2,9 +2,9 @@ import React, { useEffect, useMemo, useRef, useState } from "react";
 
 const PROFILE = {
   name: "Emmanuel Nimoh",
-  title: "Cybersecurity • Cloud • Builder",
+  title: "Cybersecurity • Business Analyst • Software Engineer • Consultant • Technology Professional",
   blurb:
-    "Threat-focused, automation-first. I ship practical security with clear docs, fast feedback loops, and simple UX.",
+    "Three years of professional experience. Results-driven technology professional with comprehensive knowledge across the IT landscape and advanced competency in cybersecurity operations.",
   location: "Ohio, USA",
   email: "emmanuelnimoh170@outlook.com",
   linkedin: "https://www.linkedin.com/in/emmanuel-nimoh",
