@@ -6,7 +6,7 @@ const PROFILE = {
   blurb:
     "Threat-focused, automation-first. I ship practical security with clear docs, fast feedback loops, and simple UX.",
   location: "Ohio, USA",
-  email: "eknimoh@gmail.com",
+  email: "emmanuelnimoh170@outlook.com",
   linkedin: "https://www.linkedin.com/in/emmanuel-nimoh",
   github: "https://github.com/your-username",
   resumeUrl: "/Emmanuel_Nimoh_Resume.pdf"
