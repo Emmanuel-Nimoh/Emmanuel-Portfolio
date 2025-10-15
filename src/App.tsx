@@ -8,7 +8,7 @@ const PROFILE = {
   location: "Ohio, USA",
   email: "emmanuelnimoh170@outlook.com",
   linkedin: "https://www.linkedin.com/in/emmanuel-nimoh",
-  github: "https://github.com/your-username",
+  github: "https://github.com/Emmanuel-Nimoh/Emmanuel-Portfolio",
   resumeUrl: "/Emmanuel_Nimoh_Resume.pdf"
 };
 
